@@ -1,0 +1,46 @@
+/** DarkMode CSS Styles */
+
+[data-theme="dark"] {
+    color: white !important;
+    background-color: #212121 !important;
+  }
+  
+  [data-theme="dark"] .toast {
+    color: black !important;
+  }
+  
+  [data-theme="dark"] .text-black-50 {
+    color: rgb(189, 189, 189) !important;
+  }
+  
+  [data-theme="dark"] .text-black-50{
+    color: rgb(189, 189, 189) !important;
+  }
+  
+  [data-theme="dark"] main h3 {
+    color: white !important;
+  }
+  
+  [data-theme="dark"] .navbar {
+    background-color: #000000;
+    box-shadow: 0px 0px 10px 0px black;
+  }
+  
+  [data-theme="dark"] .modal {
+    color: white;
+  }
+  
+  [data-theme="dark"] .modal-content {
+    background-color: #212121;
+  }
+  
+  [data-theme="dark"] .card {
+      color: white !important;
+      background-color: #0e0e0e !important;
+  }
+  
+  [data-theme="dark"] .table-dark tbody {
+    border-bottom: #212121;
+    border-top: none;
+  }
+  

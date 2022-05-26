@@ -1,0 +1,10 @@
+@import "_loader";
+@import "_darkmode";
+
+.toast, .modal {
+    backdrop-filter: blur(15px);
+}
+
+.modal-dialog {
+    max-width: 750px;
+}
